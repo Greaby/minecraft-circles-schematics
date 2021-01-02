@@ -1,4 +1,4 @@
-# Minecraft Circle Schematics
+# Minecraft Circles Schematics
 
 This Minecraft map contains all circle models from 1x1 to 64x64.
 
